@@ -1,0 +1,3 @@
+﻿  InsertionAndDeletion.cpp
+D:\02_School\01_Learning\Programming\0_OnOwn\C++\Abdul Bari\FromScratch\InsertionAndDeletion\InsertionAndDeletion\InsertionAndDeletion.cpp(101,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  InsertionAndDeletion.vcxproj -> D:\02_School\01_Learning\Programming\0_OnOwn\C++\Abdul Bari\FromScratch\InsertionAndDeletion\x64\Debug\InsertionAndDeletion.exe
